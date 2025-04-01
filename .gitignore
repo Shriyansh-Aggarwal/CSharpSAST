@@ -1,0 +1,10 @@
+﻿bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.db
+*.log
+*.cache
+*.vs/
+*.nupkg
